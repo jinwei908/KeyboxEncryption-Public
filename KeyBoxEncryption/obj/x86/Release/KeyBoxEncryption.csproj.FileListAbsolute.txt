@@ -1,0 +1,9 @@
+C:\Users\Ssasuke\Documents\Visual Studio 2010\Projects\KeyBoxEncryption\KeyBoxEncryption\bin\Release\KeyBoxEncryption.exe.config
+C:\Users\Ssasuke\Documents\Visual Studio 2010\Projects\KeyBoxEncryption\KeyBoxEncryption\bin\Release\KeyBoxEncryption.exe
+C:\Users\Ssasuke\Documents\Visual Studio 2010\Projects\KeyBoxEncryption\KeyBoxEncryption\bin\Release\KeyBoxEncryption.pdb
+C:\Users\Ssasuke\Documents\Visual Studio 2010\Projects\KeyBoxEncryption\KeyBoxEncryption\obj\x86\Release\KeyBoxEncryption.Form1.resources
+C:\Users\Ssasuke\Documents\Visual Studio 2010\Projects\KeyBoxEncryption\KeyBoxEncryption\obj\x86\Release\KeyBoxEncryption.PopupLog.resources
+C:\Users\Ssasuke\Documents\Visual Studio 2010\Projects\KeyBoxEncryption\KeyBoxEncryption\obj\x86\Release\KeyBoxEncryption.Properties.Resources.resources
+C:\Users\Ssasuke\Documents\Visual Studio 2010\Projects\KeyBoxEncryption\KeyBoxEncryption\obj\x86\Release\KeyBoxEncryption.csproj.GenerateResource.Cache
+C:\Users\Ssasuke\Documents\Visual Studio 2010\Projects\KeyBoxEncryption\KeyBoxEncryption\obj\x86\Release\KeyBoxEncryption.exe
+C:\Users\Ssasuke\Documents\Visual Studio 2010\Projects\KeyBoxEncryption\KeyBoxEncryption\obj\x86\Release\KeyBoxEncryption.pdb

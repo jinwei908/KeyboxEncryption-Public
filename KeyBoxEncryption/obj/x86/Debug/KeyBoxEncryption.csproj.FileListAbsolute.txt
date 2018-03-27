@@ -1,0 +1,31 @@
+c:\users\ssasuke\documents\visual studio 2010\Projects\KeyBoxEncryption\KeyBoxEncryption\bin\Debug\KeyBoxEncryption.exe
+c:\users\ssasuke\documents\visual studio 2010\Projects\KeyBoxEncryption\KeyBoxEncryption\bin\Debug\KeyBoxEncryption.pdb
+c:\users\ssasuke\documents\visual studio 2010\Projects\KeyBoxEncryption\KeyBoxEncryption\obj\x86\Debug\KeyBoxEncryption.Form1.resources
+c:\users\ssasuke\documents\visual studio 2010\Projects\KeyBoxEncryption\KeyBoxEncryption\obj\x86\Debug\KeyBoxEncryption.Properties.Resources.resources
+c:\users\ssasuke\documents\visual studio 2010\Projects\KeyBoxEncryption\KeyBoxEncryption\obj\x86\Debug\KeyBoxEncryption.csproj.GenerateResource.Cache
+c:\users\ssasuke\documents\visual studio 2010\Projects\KeyBoxEncryption\KeyBoxEncryption\obj\x86\Debug\KeyBoxEncryption.exe
+c:\users\ssasuke\documents\visual studio 2010\Projects\KeyBoxEncryption\KeyBoxEncryption\obj\x86\Debug\KeyBoxEncryption.pdb
+C:\Users\Ssasuke\Documents\Visual Studio 2010\Projects\KeyBoxEncryption\KeyBoxEncryption\bin\Debug\KeyBoxEncryption.exe.config
+C:\Users\Ssasuke\Documents\Visual Studio 2010\Projects\KeyBoxEncryption\KeyBoxEncryption\obj\x86\Debug\KeyBoxEncryption.csprojResolveAssemblyReference.cache
+C:\Users\Ssasuke\Documents\Visual Studio 2010\Projects\KeyBoxEncryption\KeyBoxEncryption\obj\x86\Debug\KeyBoxEncryption.PopupLog.resources
+D:\Dropbox\Dropbox\Aftershock Studio\Builds and Backup\KeyBoxEncryption\KeyBoxEncryption\bin\Debug\KeyBoxEncryption.exe.config
+D:\Dropbox\Dropbox\Aftershock Studio\Builds and Backup\KeyBoxEncryption\KeyBoxEncryption\obj\x86\Debug\KeyBoxEncryption.exe
+D:\Dropbox\Dropbox\Aftershock Studio\Builds and Backup\KeyBoxEncryption\KeyBoxEncryption\obj\x86\Debug\KeyBoxEncryption.pdb
+D:\Dropbox\Dropbox\Aftershock Studio\Builds and Backup\KeyBoxEncryption\KeyBoxEncryption\bin\Debug\KeyBoxEncryption.exe
+D:\Dropbox\Dropbox\Aftershock Studio\Builds and Backup\KeyBoxEncryption\KeyBoxEncryption\bin\Debug\KeyBoxEncryption.pdb
+D:\Dropbox\Dropbox\Aftershock Studio\Builds and Backup\KeyBoxEncryption\KeyBoxEncryption\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\Dropbox\Aftershock Studio\Builds and Backup\KeyBoxEncryption\KeyBoxEncryption\obj\x86\Debug\KeyBoxEncryption.Form1.resources
+D:\Dropbox\Dropbox\Aftershock Studio\Builds and Backup\KeyBoxEncryption\KeyBoxEncryption\obj\x86\Debug\KeyBoxEncryption.PopupLog.resources
+D:\Dropbox\Dropbox\Aftershock Studio\Builds and Backup\KeyBoxEncryption\KeyBoxEncryption\obj\x86\Debug\KeyBoxEncryption.Properties.Resources.resources
+D:\Dropbox\Dropbox\Aftershock Studio\Builds and Backup\KeyBoxEncryption\KeyBoxEncryption\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Dropbox\Dropbox\Aftershock Studio\Builds and Backup\KeyBoxEncryption\KeyBoxEncryption\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Dropbox\KeyBoxEncryption\KeyBoxEncryption\bin\Debug\KeyBoxEncryption.exe.config
+D:\Dropbox\KeyBoxEncryption\KeyBoxEncryption\obj\x86\Debug\KeyBoxEncryption.exe
+D:\Dropbox\KeyBoxEncryption\KeyBoxEncryption\obj\x86\Debug\KeyBoxEncryption.pdb
+D:\Dropbox\KeyBoxEncryption\KeyBoxEncryption\bin\Debug\KeyBoxEncryption.exe
+D:\Dropbox\KeyBoxEncryption\KeyBoxEncryption\bin\Debug\KeyBoxEncryption.pdb
+D:\Dropbox\KeyBoxEncryption\KeyBoxEncryption\obj\x86\Debug\KeyBoxEncryption.csprojResolveAssemblyReference.cache
+D:\Dropbox\KeyBoxEncryption\KeyBoxEncryption\obj\x86\Debug\KeyBoxEncryption.Form1.resources
+D:\Dropbox\KeyBoxEncryption\KeyBoxEncryption\obj\x86\Debug\KeyBoxEncryption.PopupLog.resources
+D:\Dropbox\KeyBoxEncryption\KeyBoxEncryption\obj\x86\Debug\KeyBoxEncryption.Properties.Resources.resources
+D:\Dropbox\KeyBoxEncryption\KeyBoxEncryption\obj\x86\Debug\KeyBoxEncryption.csproj.GenerateResource.Cache
